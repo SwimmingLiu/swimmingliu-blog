@@ -34,7 +34,7 @@ languages:
                   url: search/
                   weight: 8
                 - name: 👨🏻‍🎓 About Me
-                  url: https://bento.me/swimmingliu
+                  url: https://avely.me/swimmingliu
                   weight: 15
                 - name: 🗒️ Posts
                   url: posts/
@@ -45,9 +45,6 @@ languages:
                 - name: 📑 Tags
                   url: tags/
                   weight: 13
-                - name: Emoji
-                  url: https://www.emojisearch.app/
-                  weight: 25
 
 
 
@@ -61,13 +58,10 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     #description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
     author: 👨🏻‍🎓 SwimmingLiu 
-    # author: ["Me", "You"] # multiple authors
 
     defaultTheme: PaperMod
-    # disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
-    # disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
@@ -80,7 +74,7 @@ params:
     profileMode:
         enabled: true
         title: 𝓢𝔀𝓲𝓶𝓶𝓲𝓷𝓰𝓛𝓲𝓾'𝓼 𝓑𝓵𝓸𝓰
-        imageUrl: images/SwimmingLiu.png
+        imageUrl: https://oss.swimmingliu.cn/SwimmingLiu-08f19bdf2935.png
         imageTitle: 𝓢𝔀𝓲𝓶𝓶𝓲𝓷𝓰𝓛𝓲𝓾
         imageWidth: 200
         imageHeight: 200
@@ -108,39 +102,19 @@ params:
 
     label:
         text: "𝓢𝔀𝓲𝓶𝓶𝓲𝓷𝓰𝓛𝓲𝓾'𝓼 𝓑𝓵𝓸𝓰"
-        icon: images/swimmingliu_icon.png
+        icon: https://oss.swimmingliu.cn/swimmingliu_icon-7772456ede34.jpg
         iconHeight: 30
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
 
     assets:
         disableHLJS: true
-        favicon: images/swimmingliu_icon.png
-        favicon16x16: images/swimmingliu_icon.png
-        favicon32x32: images/swimmingliu_icon.png
-        apple_touch_icon: images/swimmingliu_icon.png
-        safari_pinned_tab: images/swimmingliu_icon.png
-
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
-
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    #     keys: ["title", "permalink", "summary", "content"]
+        favicon: https://oss.swimmingliu.cn/swimmingliu_icon-7772456ede34.jpg
+        favicon16x16: https://oss.swimmingliu.cn/swimmingliu_icon-7772456ede34.jpg
+        favicon32x32: https://oss.swimmingliu.cn/swimmingliu_icon-7772456ede34.jpg
+        apple_touch_icon: https://oss.swimmingliu.cn/swimmingliu_icon-7772456ede34.jpg
+        safari_pinned_tab: https://oss.swimmingliu.cn/swimmingliu_icon-7772456ede34.jpg
     
     StartYear: 2023 # 底部开始年份
     FilingNo: 浙ICP备2024056260号 # 底部备案号
-    # PublicSecurityIconLink: 填自己的公安图标链接 # 填自己的公安图标链接,可用绝对路径，相对路径如 img/beian.png
-    # PublicNetworkSecurity: 填自己的公网安备 # 底部公网安备号    
 
 markup:
     goldmark:
@@ -148,11 +122,6 @@ markup:
             unsafe: true
     highlight:
         noClasses: false
-        # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        # style: monokai
 
 privacy:
     vimeo:

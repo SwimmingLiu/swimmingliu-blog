@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>💻 Job on SwimmingLiu&#39;s Blog</title>
-    <link>https://swimmingliu.cn/categories/-job/</link>
+    <link>http://127.0.0.1:1313/categories/-job/</link>
     <description>Recent content in 💻 Job on SwimmingLiu&#39;s Blog</description>
     <image>
       <title>SwimmingLiu&#39;s Blog</title>
-      <url>https://swimmingliu.cn/papermod-cover.png</url>
-      <link>https://swimmingliu.cn/papermod-cover.png</link>
+      <url>http://127.0.0.1:1313/papermod-cover.png</url>
+      <link>http://127.0.0.1:1313/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.146.4</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 Oct 2025 22:27:35 +0800</lastBuildDate>
-    <atom:link href="https://swimmingliu.cn/categories/-job/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1313/categories/-job/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>美团历年算法真题合集</title>
-      <link>https://swimmingliu.cn/posts/job/meituan-algorithm-quiz-notes/</link>
+      <link>http://127.0.0.1:1313/posts/job/meituan-algorithm-quiz-notes/</link>
       <pubDate>Thu, 28 Aug 2025 21:27:35 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/meituan-algorithm-quiz-notes/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/meituan-algorithm-quiz-notes/</guid>
       <description>&lt;h2 id=&#34;20240907&#34;&gt;2024.09.07&lt;/h2&gt;
 &lt;h3 id=&#34;1-第一题&#34;&gt;1. 第一题&lt;/h3&gt;
 &lt;p&gt;小美有一个长度为n的数组，她每次操作会执行如下：选定一个ai，把这个数加上一个任意的x(x &amp;gt; 0)，花费的代价为ai + x。现在小美想要把整个数组变成全部奇数或者全部偶数的最小代价是多少？&lt;/p&gt;
@@ -65,9 +65,9 @@
     </item>
     <item>
       <title>Coze工作流分析</title>
-      <link>https://swimmingliu.cn/posts/job/coze-workflow-analysis/</link>
+      <link>http://127.0.0.1:1313/posts/job/coze-workflow-analysis/</link>
       <pubDate>Thu, 07 Aug 2025 23:27:35 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/coze-workflow-analysis/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/coze-workflow-analysis/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;工作流可以分为三个大板块：工作流管理 (前后端交互-画布存储)、工作流校验、工作流执行&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;工作流管理&#34;&gt;工作流管理&lt;/h2&gt;
@@ -121,9 +121,9 @@
     </item>
     <item>
       <title>Leetcode Hot100 刷题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/leetcode-hot100-notes/</link>
+      <link>http://127.0.0.1:1313/posts/job/leetcode-hot100-notes/</link>
       <pubDate>Sun, 20 Jul 2025 23:27:35 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/leetcode-hot100-notes/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/leetcode-hot100-notes/</guid>
       <description>&lt;h2 id=&#34;链表&#34;&gt;链表&lt;/h2&gt;
 &lt;h3 id=&#34;1-两数相加&#34;&gt;1. 两数相加&lt;/h3&gt;
 &lt;p&gt;题目链接：&lt;a href=&#34;https://leetcode.cn/problems/add-two-numbers/description/&#34;&gt;两数相加&lt;/a&gt;&lt;/p&gt;
@@ -154,9 +154,9 @@
     </item>
     <item>
       <title>Java场景100题</title>
-      <link>https://swimmingliu.cn/posts/job/java-scene-quiz-100/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-scene-quiz-100/</link>
       <pubDate>Sun, 06 Jul 2025 13:27:35 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-scene-quiz-100/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-scene-quiz-100/</guid>
       <description>&lt;h1 id=&#34;并发与性能优化&#34;&gt;并发与性能优化&lt;/h1&gt;
 &lt;h2 id=&#34;1-大文件上传如何处理分片上传&#34;&gt;1. 大文件上传如何处理？分片上传&lt;/h2&gt;
 &lt;p&gt;相关代码：&lt;a href=&#34;https://github.com/SwimmingLiu/JavaSceneQuiz100/tree/main/lesson001&#34;&gt;https://github.com/SwimmingLiu/JavaSceneQuiz100/tree/main/lesson001&lt;/a&gt;&lt;/p&gt;
@@ -192,9 +192,9 @@
     </item>
     <item>
       <title>恒生聚源面经记录</title>
-      <link>https://swimmingliu.cn/posts/job/hensheng-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/hensheng-interview-questions/</link>
       <pubDate>Tue, 06 May 2025 13:27:35 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/hensheng-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/hensheng-interview-questions/</guid>
       <description>&lt;h2 id=&#34;八股题&#34;&gt;八股题&lt;/h2&gt;
 &lt;h3 id=&#34;java-基础--集合&#34;&gt;Java 基础 + 集合&lt;/h3&gt;
 &lt;h4 id=&#34;面向对象和面向过程的区别&#34;&gt;面向对象和面向过程的区别？&lt;/h4&gt;
@@ -285,9 +285,9 @@
     </item>
     <item>
       <title>JVM 面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/java-jvm-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-jvm-interview-questions/</link>
       <pubDate>Sat, 22 Mar 2025 21:45:41 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-jvm-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-jvm-interview-questions/</guid>
       <description>&lt;p&gt;&lt;code&gt;JVM&lt;/code&gt; 全局构架图如下，包含 &lt;code&gt;JVM&lt;/code&gt; 的全部内容&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;JVM-全局结构图&#34; loading=&#34;lazy&#34; src=&#34;https://oss.swimmingliu.cn/695c3cf0-098e-11f0-a8ba-c858c0c1deba&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-jvm-的内存区域是如何划分的&#34;&gt;1. JVM 的内存区域是如何划分的？&lt;/h2&gt;
@@ -325,9 +325,9 @@
     </item>
     <item>
       <title>计算机网络面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/computer-networks-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/computer-networks-interview-questions/</link>
       <pubDate>Thu, 13 Mar 2025 21:49:44 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/computer-networks-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/computer-networks-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-tcp-和-udp-有什么区别&#34;&gt;1. TCP 和 UDP 有什么区别？&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;TCP&lt;/code&gt; 是一种可靠的、面向连接、基于字节流传输的传输协议，能够保证数据的顺序，但是其延迟比较大。一般适用于需要数据完整性和顺序的场景，比如文件传输、邮件、&lt;code&gt;Web&lt;/code&gt; 网站。
 &lt;code&gt;UDP&lt;/code&gt; 是一种不可靠的、无连接、基于数据报传输的传输协议，不能保证数据的顺序，但是延迟比较小。一般适用于需要高性能要求和快速传输数据的应用，比如实时通讯、语音、视频、游戏等。&lt;/p&gt;
@@ -392,9 +392,9 @@
     </item>
     <item>
       <title>设计模式面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/desgin-mode-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/desgin-mode-interview-questions/</link>
       <pubDate>Fri, 07 Mar 2025 21:44:36 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/desgin-mode-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/desgin-mode-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-单例模式有哪几种实现如何保证线程安全&#34;&gt;1. 单例模式有哪几种实现？如何保证线程安全？&lt;/h2&gt;
 &lt;p&gt;首先，单例模式和工厂模式都是一种设计模式。单例模式当中，一个类只允许创建一个对象(或者说实例)， 那这个类就是单例类。单例类是不可以被继承的，也没有了多态的特性。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;【单例类的实现方式】&lt;/strong&gt;&lt;/p&gt;
@@ -436,9 +436,9 @@
     </item>
     <item>
       <title>(JUC) Java并发面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/java-juc-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-juc-interview-questions/</link>
       <pubDate>Wed, 05 Mar 2025 21:45:49 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-juc-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-juc-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-什么是-java-内存模型jmm&#34;&gt;1. 什么是 Java 内存模型（JMM）？&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;JMM&lt;/code&gt; 是 Java内存模型 ， 它是Java虚拟机 &lt;code&gt;JVM&lt;/code&gt; 定义的一种规范，用于描述多线程程序中的变量，像实例字段、静态字段和数组元素，他们如何在内存中存储和传递的规则。也就是规定线程啥时候从住内存里面读数据，啥时候把数据写回到住内存。&lt;code&gt;JMM&lt;/code&gt; 的核心目标是确保多线程环境下的&lt;strong&gt;可见性&lt;/strong&gt;、&lt;strong&gt;有序性&lt;/strong&gt;和&lt;strong&gt;原子性&lt;/strong&gt;, 避免硬件和编译器优化带来的不一致问题。&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;JMM&lt;/code&gt;  当中包含&lt;strong&gt;主内存&lt;/strong&gt; (所有线程共享) 和 &lt;strong&gt;工作内存&lt;/strong&gt; （每个线程私有）两种内存。&lt;/p&gt;
@@ -478,9 +478,9 @@
     </item>
     <item>
       <title>操作系统面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/operation-system-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/operation-system-interview-questions/</link>
       <pubDate>Sat, 01 Mar 2025 09:49:44 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/operation-system-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/operation-system-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-说说你知道的几种-io-模型&#34;&gt;1. 说说你知道的几种 I/O 模型&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;【常见的五大I/O模型】&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;常见的五大I/O模式分别为: 同步阻塞I/O (Blocking I/O) &lt;code&gt;BIO&lt;/code&gt;、非阻塞I/O (Non-blocking I/O) &lt;code&gt;NIO&lt;/code&gt;、I/O多路复用、信号量驱动I/O、异步I/O &lt;code&gt;AIO&lt;/code&gt;&lt;/p&gt;
@@ -535,9 +535,9 @@
     </item>
     <item>
       <title>个人简历常问问题</title>
-      <link>https://swimmingliu.cn/posts/job/personal-interview-hot-question/</link>
+      <link>http://127.0.0.1:1313/posts/job/personal-interview-hot-question/</link>
       <pubDate>Thu, 27 Feb 2025 10:52:54 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/personal-interview-hot-question/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/personal-interview-hot-question/</guid>
       <description>&lt;p&gt;个人简历详情查看 -&amp;gt; &lt;a href=&#34;https://rxresu.me/dashboard/resumes&#34;&gt;个人简历页&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-异步秒杀机制的异步是如何实现的&#34;&gt;1. 异步秒杀机制的异步是如何实现的?&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;【正常秒杀的顺序】&lt;/strong&gt;&lt;/p&gt;
@@ -600,9 +600,9 @@
     </item>
     <item>
       <title>Redis面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/redis-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/redis-interview-questions/</link>
       <pubDate>Thu, 20 Feb 2025 21:21:45 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/redis-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/redis-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-redis主从复制的原理&#34;&gt;1. Redis主从复制的原理&lt;/h2&gt;
 &lt;p&gt;【&lt;strong&gt;主从复制的原理&lt;/strong&gt;】&lt;/p&gt;
 &lt;ol&gt;
@@ -674,9 +674,9 @@
     </item>
     <item>
       <title>Java集合面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/java-set-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-set-interview-questions/</link>
       <pubDate>Thu, 20 Feb 2025 21:20:50 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-set-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-set-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-说说-java-中-hashmap-的原理&#34;&gt;1. 说说 Java 中 HashMap 的原理？&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;【HashMap定义】&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -703,9 +703,9 @@
     </item>
     <item>
       <title>Java基础题面试笔记</title>
-      <link>https://swimmingliu.cn/posts/job/java-basic-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-basic-interview-questions/</link>
       <pubDate>Wed, 19 Feb 2025 15:18:58 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-basic-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-basic-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-序列化和反序列化&#34;&gt;1. 序列化和反序列化&lt;/h2&gt;
 &lt;p&gt;1.序列化和反序列化：把对象转换为字节流，用于存储和传输；读取字节流数据，重新创建对象。
 2.序列化不包括静态对象：序列化和反序列化的本质是调用对象的&lt;code&gt;writeObject&lt;/code&gt;和&lt;code&gt;readObject&lt;/code&gt;方法,来实现将对象写入输出流和读取输入流。但是，静态变量不属于对象，所以调用这两个方法就没法儿让静态变量参与。&lt;/p&gt;
@@ -750,9 +750,9 @@
     </item>
     <item>
       <title>MySQL面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/mysql-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/mysql-interview-questions/</link>
       <pubDate>Wed, 19 Feb 2025 15:16:42 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/mysql-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/mysql-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1mysql-中的数据排序是怎么实现的&#34;&gt;1.MySQL 中的数据排序是怎么实现的？&lt;/h2&gt;
 &lt;p&gt;1.&lt;strong&gt;排序方法&lt;/strong&gt;：索引排序和文件排序 (filesort)&lt;/p&gt;
 &lt;p&gt;2.&lt;strong&gt;索引排序&lt;/strong&gt;：如果&lt;code&gt;order by xxx&lt;/code&gt;的字段为索引字段，则利用索引进行排序。效率最高，索引默认有序。&lt;/p&gt;
@@ -817,9 +817,9 @@
     </item>
     <item>
       <title>Java面试题-随手记</title>
-      <link>https://swimmingliu.cn/posts/job/java-interview-questions-notes/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-interview-questions-notes/</link>
       <pubDate>Fri, 27 Dec 2024 17:27:35 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-interview-questions-notes/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-interview-questions-notes/</guid>
       <description>&lt;h2 id=&#34;-和-equals-区别&#34;&gt;== 和 equals 区别&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;==&lt;/code&gt; 基本类型(int, long, float, char, boolean) 值比较， 引用类型(String，List) 进行地址比较&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;equals&lt;/code&gt; 默认就是 &lt;code&gt;==&lt;/code&gt; ，但是部分引用类型(String，List)重写了该方法，进行值比较&lt;/p&gt;

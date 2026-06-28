@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Redis on SwimmingLiu&#39;s Blog</title>
-    <link>https://swimmingliu.cn/tags/redis/</link>
+    <link>http://127.0.0.1:1313/tags/redis/</link>
     <description>Recent content in Redis on SwimmingLiu&#39;s Blog</description>
     <image>
       <title>SwimmingLiu&#39;s Blog</title>
-      <url>https://swimmingliu.cn/papermod-cover.png</url>
-      <link>https://swimmingliu.cn/papermod-cover.png</link>
+      <url>http://127.0.0.1:1313/papermod-cover.png</url>
+      <link>http://127.0.0.1:1313/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.146.4</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 20 Feb 2025 21:21:45 +0800</lastBuildDate>
-    <atom:link href="https://swimmingliu.cn/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1313/tags/redis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redis面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/redis-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/redis-interview-questions/</link>
       <pubDate>Thu, 20 Feb 2025 21:21:45 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/redis-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/redis-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-redis主从复制的原理&#34;&gt;1. Redis主从复制的原理&lt;/h2&gt;
 &lt;p&gt;【&lt;strong&gt;主从复制的原理&lt;/strong&gt;】&lt;/p&gt;
 &lt;ol&gt;

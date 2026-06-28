@@ -33,7 +33,7 @@ hidemeta: true
             box-sizing: border-box;
             width: 25vh;
             height: 25vh ;
-            background-image: url("https://swimmingliu.cn/images/SwimmingLiu.png");
+            background-image: url("https://oss.swimmingliu.cn/SwimmingLiu-08f19bdf2935.png");
             background-size:100% 100%;
         }
         .introBox{
@@ -75,7 +75,7 @@ hidemeta: true
             box-sizing: border-box;
             width: 16vw;
             height: 16vw;
-            background-image: url("https://swimmingliu.cn/images/SwimmingLiu.png");
+            background-image: url("https://oss.swimmingliu.cn/SwimmingLiu-08f19bdf2935.png");
             background-size:100% 100%;
         }
         .introImg:hover{

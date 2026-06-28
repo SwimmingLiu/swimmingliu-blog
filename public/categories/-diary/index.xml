@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>📓 Diary on SwimmingLiu&#39;s Blog</title>
-    <link>https://swimmingliu.cn/categories/-diary/</link>
+    <link>http://127.0.0.1:1313/categories/-diary/</link>
     <description>Recent content in 📓 Diary on SwimmingLiu&#39;s Blog</description>
     <image>
       <title>SwimmingLiu&#39;s Blog</title>
-      <url>https://swimmingliu.cn/papermod-cover.png</url>
-      <link>https://swimmingliu.cn/papermod-cover.png</link>
+      <url>http://127.0.0.1:1313/papermod-cover.png</url>
+      <link>http://127.0.0.1:1313/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.146.4</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 20 Aug 2024 10:35:06 +0800</lastBuildDate>
-    <atom:link href="https://swimmingliu.cn/categories/-diary/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1313/categories/-diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YOLOSHOW - YOLOv5/YOLOv7/YOLOv8/YOLOv9/RTDETR GUI based on Pyside6</title>
-      <link>https://swimmingliu.cn/posts/diary/yoloshow/</link>
+      <link>http://127.0.0.1:1313/posts/diary/yoloshow/</link>
       <pubDate>Sun, 18 Feb 2024 19:30:06 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/yoloshow/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/yoloshow/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;YOLOSHOW&lt;/strong&gt;&lt;/em&gt; is a graphical user interface (GUI) application embed with &lt;code&gt;YOLOv5&lt;/code&gt; &lt;code&gt;YOLOv7&lt;/code&gt; &lt;code&gt;YOLOv8&lt;/code&gt; &lt;code&gt;YOLOv9&lt;/code&gt; &lt;code&gt;YOLOv10&lt;/code&gt; &lt;code&gt;YOLOv11&lt;/code&gt;  &lt;code&gt;RT-DETR&lt;/code&gt; &lt;code&gt;SAM&lt;/code&gt; &lt;code&gt;MobileSAM&lt;/code&gt; &lt;code&gt;FastSAM&lt;/code&gt; algorithm.&lt;/p&gt;
  &lt;p align=&#34;center&#34;&gt; 
@@ -44,9 +44,9 @@
     </item>
     <item>
       <title>YOLOSHOW 中文版 - YOLOv5/YOLOv7/YOLOv8/YOLOv9/RTDETR GUI based on Pyside6</title>
-      <link>https://swimmingliu.cn/posts/diary/yoloshow-cn/</link>
+      <link>http://127.0.0.1:1313/posts/diary/yoloshow-cn/</link>
       <pubDate>Sun, 18 Feb 2024 19:30:06 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/yoloshow-cn/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/yoloshow-cn/</guid>
       <description>&lt;h2 id=&#34;介绍&#34;&gt;介绍&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;YOLOSHOW&lt;/strong&gt;&lt;/em&gt; 是一款集合了 &lt;code&gt;YOLOv5&lt;/code&gt; &lt;code&gt;YOLOv7&lt;/code&gt; &lt;code&gt;YOLOv8&lt;/code&gt; &lt;code&gt;YOLOv9&lt;/code&gt; &lt;code&gt;YOLOv10&lt;/code&gt; &lt;code&gt;YOLOv11&lt;/code&gt;  &lt;code&gt;RT-DETR&lt;/code&gt; &lt;code&gt;SAM&lt;/code&gt; &lt;code&gt;MobileSAM&lt;/code&gt; &lt;code&gt;FastSAM&lt;/code&gt; 的图形化界面程序&lt;/p&gt;
 &lt;p align=&#34;center&#34;&gt; 
@@ -73,9 +73,9 @@
     </item>
     <item>
       <title>ZSTU服务器使用教程 (Yang Li Lab)</title>
-      <link>https://swimmingliu.cn/posts/diary/zstu_server_manuscript/</link>
+      <link>http://127.0.0.1:1313/posts/diary/zstu_server_manuscript/</link>
       <pubDate>Fri, 05 Jan 2024 13:47:03 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/zstu_server_manuscript/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/zstu_server_manuscript/</guid>
       <description>&lt;h2 id=&#34;安装-xshell-和-xftp&#34;&gt;安装 Xshell 和 Xftp&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://www.netsarang.com/en/xshell-download/ &lt;span class=&#34;c1&#34;&gt;# Xshell下载连接&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://blog.csdn.net/m0_67400972/article/details/125346023 &lt;span class=&#34;c1&#34;&gt;# 安装教程&lt;/span&gt;
@@ -117,9 +117,9 @@
     </item>
     <item>
       <title>ZSTU Server Management</title>
-      <link>https://swimmingliu.cn/posts/diary/zstu_server_management/</link>
+      <link>http://127.0.0.1:1313/posts/diary/zstu_server_management/</link>
       <pubDate>Thu, 04 Jan 2024 21:36:25 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/zstu_server_management/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/zstu_server_management/</guid>
       <description>&lt;h2 id=&#34;frp配置&#34;&gt;FRP配置&lt;/h2&gt;
 &lt;h3 id=&#34;跳板机&#34;&gt;跳板机&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# frps.ini 配置&lt;/span&gt;
@@ -161,9 +161,9 @@
     </item>
     <item>
       <title>MovieKGQA: 基于知识图谱和neo4j图数据库的电影知识问答系统</title>
-      <link>https://swimmingliu.cn/posts/diary/2023-moviekgqa/</link>
+      <link>http://127.0.0.1:1313/posts/diary/2023-moviekgqa/</link>
       <pubDate>Tue, 12 Dec 2023 12:18:57 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/2023-moviekgqa/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/2023-moviekgqa/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;基于知识图谱和neo4j图数据库的电影知识问答系统&lt;/p&gt;
 &lt;div style=&#34;display:flex; justify-content: space-around; &#34;&gt;
@@ -201,9 +201,9 @@
     </item>
     <item>
       <title>程序设计作业接口文档</title>
-      <link>https://swimmingliu.cn/posts/diary/2023-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%BD%9C%E4%B8%9A%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/</link>
+      <link>http://127.0.0.1:1313/posts/diary/2023-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%BD%9C%E4%B8%9A%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/</link>
       <pubDate>Sat, 02 Dec 2023 21:40:07 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/2023-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%BD%9C%E4%B8%9A%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/2023-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%BD%9C%E4%B8%9A%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3/</guid>
       <description>&lt;h1 id=&#34;程序设计作业接口文档&#34;&gt;程序设计作业接口文档&lt;/h1&gt;
 &lt;p&gt;统一返回格式&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-json&#34; data-lang=&#34;json&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
@@ -300,9 +300,9 @@
     </item>
     <item>
       <title>地大服务器使用教程</title>
-      <link>https://swimmingliu.cn/posts/diary/2023-%E5%9C%B0%E5%A4%A7%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <link>http://127.0.0.1:1313/posts/diary/2023-%E5%9C%B0%E5%A4%A7%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
       <pubDate>Mon, 20 Nov 2023 12:25:57 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/diary/2023-%E5%9C%B0%E5%A4%A7%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <guid>http://127.0.0.1:1313/posts/diary/2023-%E5%9C%B0%E5%A4%A7%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
       <description>&lt;h1 id=&#34;地大服务器使用教程&#34;&gt;地大服务器使用教程&lt;/h1&gt;
 &lt;h2 id=&#34;1-服务器环境介绍&#34;&gt;1. 服务器环境介绍&lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;NVIDIA RTX &lt;span class=&#34;m&#34;&gt;3090&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;24GB&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JUC on SwimmingLiu&#39;s Blog</title>
-    <link>https://swimmingliu.cn/tags/juc/</link>
+    <link>http://127.0.0.1:1313/tags/juc/</link>
     <description>Recent content in JUC on SwimmingLiu&#39;s Blog</description>
     <image>
       <title>SwimmingLiu&#39;s Blog</title>
-      <url>https://swimmingliu.cn/papermod-cover.png</url>
-      <link>https://swimmingliu.cn/papermod-cover.png</link>
+      <url>http://127.0.0.1:1313/papermod-cover.png</url>
+      <link>http://127.0.0.1:1313/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.146.4</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 16 Aug 2025 11:45:49 +0800</lastBuildDate>
-    <atom:link href="https://swimmingliu.cn/tags/juc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1313/tags/juc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(JUC) Java并发面试题笔记</title>
-      <link>https://swimmingliu.cn/posts/job/java-juc-interview-questions/</link>
+      <link>http://127.0.0.1:1313/posts/job/java-juc-interview-questions/</link>
       <pubDate>Wed, 05 Mar 2025 21:45:49 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/job/java-juc-interview-questions/</guid>
+      <guid>http://127.0.0.1:1313/posts/job/java-juc-interview-questions/</guid>
       <description>&lt;h2 id=&#34;1-什么是-java-内存模型jmm&#34;&gt;1. 什么是 Java 内存模型（JMM）？&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;JMM&lt;/code&gt; 是 Java内存模型 ， 它是Java虚拟机 &lt;code&gt;JVM&lt;/code&gt; 定义的一种规范，用于描述多线程程序中的变量，像实例字段、静态字段和数组元素，他们如何在内存中存储和传递的规则。也就是规定线程啥时候从住内存里面读数据，啥时候把数据写回到住内存。&lt;code&gt;JMM&lt;/code&gt; 的核心目标是确保多线程环境下的&lt;strong&gt;可见性&lt;/strong&gt;、&lt;strong&gt;有序性&lt;/strong&gt;和&lt;strong&gt;原子性&lt;/strong&gt;, 避免硬件和编译器优化带来的不一致问题。&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;JMM&lt;/code&gt;  当中包含&lt;strong&gt;主内存&lt;/strong&gt; (所有线程共享) 和 &lt;strong&gt;工作内存&lt;/strong&gt; （每个线程私有）两种内存。&lt;/p&gt;

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IntermediateSupervision on SwimmingLiu&#39;s Blog</title>
-    <link>https://swimmingliu.cn/tags/intermediatesupervision/</link>
+    <link>http://127.0.0.1:1313/tags/intermediatesupervision/</link>
     <description>Recent content in IntermediateSupervision on SwimmingLiu&#39;s Blog</description>
     <image>
       <title>SwimmingLiu&#39;s Blog</title>
-      <url>https://swimmingliu.cn/papermod-cover.png</url>
-      <link>https://swimmingliu.cn/papermod-cover.png</link>
+      <url>http://127.0.0.1:1313/papermod-cover.png</url>
+      <link>http://127.0.0.1:1313/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- 0.146.4</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Nov 2023 14:55:47 +0800</lastBuildDate>
-    <atom:link href="https://swimmingliu.cn/tags/intermediatesupervision/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1313/tags/intermediatesupervision/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prior Attention Network: 用于医学图像中多病灶分割的预先注意网络</title>
-      <link>https://swimmingliu.cn/posts/papernotes/2022-priorattentionnetwork/</link>
+      <link>http://127.0.0.1:1313/posts/papernotes/2022-priorattentionnetwork/</link>
       <pubDate>Tue, 28 Nov 2023 14:55:47 +0800</pubDate>
-      <guid>https://swimmingliu.cn/posts/papernotes/2022-priorattentionnetwork/</guid>
+      <guid>http://127.0.0.1:1313/posts/papernotes/2022-priorattentionnetwork/</guid>
       <description>&lt;h1 id=&#34;prior-attention-network-用于医学图像中多病灶分割的预先注意网络&#34;&gt;Prior Attention Network: 用于医学图像中多病灶分割的预先注意网络&lt;/h1&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;blockquote&gt;
